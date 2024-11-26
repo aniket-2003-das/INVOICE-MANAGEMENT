@@ -128,7 +128,7 @@ docker-compose up --build
 
 ---
 
-## Access Dockerised App 
+## Access Dockerised App
 
 ```html
 http://localhost:8000 # Backend
