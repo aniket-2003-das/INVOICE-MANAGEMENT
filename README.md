@@ -2,14 +2,19 @@
 
 ## Overview
 
+```text
 This full-stack invoice management system, built with Django REST Framework (backend) and React (frontend), allows users to create, manage, and track invoices with multiple line items through a single API endpoint.
+```
 
 ## Live Demo
 
+```text
 Access the application at: [https://invoice-management-sooty.vercel.app/](https://invoice-management-sooty.vercel.app/)
+```
 
 ## Features
 
+```text
 - CRUD operations for invoices
 - Multiple line items per invoice
 - Automatic calculation of totals
@@ -17,15 +22,18 @@ Access the application at: [https://invoice-management-sooty.vercel.app/](https:
 - Responsive web interface
 - Search and filter functionality
 - Pagination for efficient data handling
+```
 
 ## Tech Stack
 
+```text
 - Backend: Django, Django REST Framework
 - Frontend: React (hooks and functional components)
 - Database: SQLite (development), PostgreSQL (production)
 - State Management: React Context API
 - Styling: CSS Modules
 - Deployment: Vercel
+```
 
 ## Setup Instructions
 
