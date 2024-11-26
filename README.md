@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Invoice Management System
 
 ## Overview
@@ -41,7 +41,7 @@ The application is deployed and can be accessed at: [https://invoice-management-
 ### Backend
 
 1. Clone the repository:
-```
+
 
 git clone `<repository-url>`
 cd invoice-management
